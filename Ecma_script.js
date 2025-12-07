@@ -28,7 +28,6 @@
 // var lastName = ("lakhani");
 // var fullName = (firstName + lastName);
 // // alert (fullName);
-// console.log (fullName);
 
 //4.var quote = ("i Love Java Script");
 // console.log (quote);
